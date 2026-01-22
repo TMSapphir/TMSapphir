@@ -16,3 +16,8 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 
 - 🐍 **MyPythonStudy**: These repository conetain all my training codes with python. 
 
+
+## What i want to becom
+
+<img width="498" height="362" alt="image" src="https://github.com/user-attachments/assets/ee4460f9-c71f-4ab1-a883-7ccb5c544b37" />
+
