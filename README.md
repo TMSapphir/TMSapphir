@@ -20,7 +20,7 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 ##  🚀 My inspirations and goals:
 
 
-### 🐭 Topolino Hackerino (Signori della Postale, è solo per il meme 🤪, sono solo un ragazzo nel chill)
+### 🐭 Topolino Hackerino (Signori della Postale, è solo per il meme! sono solo un ragazzo nel chill)
 <div align="center">
  <img src="https://media1.tenor.com/m/LUM8oNBDclkAAAAC/staccah-stacca.gif">
 </div>
@@ -29,5 +29,6 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 <div align="center">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
