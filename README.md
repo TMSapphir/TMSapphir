@@ -29,8 +29,9 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 ### 😎 The Chill Guy
 #### (Vedete? Sono solo un ragazzo nel chill!)
 
+<div align="center">
 <img width="375" height="440" alt="image" src="https://github.com/user-attachments/assets/f75b40ae-4719-41d9-8d6e-f73fe4005375" />
-
+</div>
 
 
 
@@ -38,6 +39,7 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 <div align="center">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
