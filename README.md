@@ -17,14 +17,17 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 - 🐍 **MyPythonStudy**: These repository conetain all my training codes with python. 
 
 
-##  🐭 My inspirations and goals:
+##  🚀 My inspirations and goals:
 
 
+### 🐭 Topolino Hackerino (Signori della Postale, è solo per il meme 🤪, sono solo un ragazzo nel chill)
 <div align="center">
  <img src="https://media1.tenor.com/m/LUM8oNBDclkAAAAC/staccah-stacca.gif">
 </div>
 
+### 🐱 The Cat with the Piano (You know, I know, We all know)
 <div align="center">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
