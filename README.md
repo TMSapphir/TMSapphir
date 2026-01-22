@@ -21,16 +21,23 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 
 
 ### 🐭 Topolino Hackerino e l'Uomo d'Acciaio 
-#### (Signori della Postale, è solo per il meme! sono solo un ragazzo nel chill)
+#### (Signori della Postale, è solo per il meme! sono innocente come gesù cristo sulla croce)
 <div align="center">
  <img src="https://media1.tenor.com/m/LUM8oNBDclkAAAAC/staccah-stacca.gif">
 </div>
+
+### 😎 The Chill Guy
+#### (Vedete? Sono solo un ragazzo nel chill!)
+
+<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/bfb11092-671b-47cf-8509-047f1c8bdbf1" />
+
 
 
 ### 🐱 The Cat with the Piano (You know, I know, We all know)
 <div align="center">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
