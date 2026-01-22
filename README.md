@@ -17,11 +17,12 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 - 🐍 **MyPythonStudy**: These repository conetain all my training codes with python. 
 
 
-## What i want to becom
+##  🐭 What i want to become 
 
 
 <div align="center">
  <img src="https://media1.tenor.com/m/LUM8oNBDclkAAAAC/staccah-stacca.gif">
 </div>
+
 
 
