@@ -14,4 +14,5 @@ Now I'm in university session and I'm studing nuclar fisics and standard models 
 I noticed that I can't make "folders of repository" and this trigger me (I'm a huge fan of folders). For this, I want to organize my repository a "pre-title" to indicate the type of work done in the repository. Now, the "pre-titles" used are:
 
 
-- 🐍 **MyPythonJourney**: These repository conetain all my training codes with python. 
+- 🐍 **MyPythonStudy**: These repository conetain all my training codes with python. 
+
