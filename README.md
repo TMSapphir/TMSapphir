@@ -29,7 +29,8 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 ### 😎 The Chill Guy
 #### (Vedete? Sono solo un ragazzo nel chill!)
 
-<img width="1920" height="1280" alt="image" src="https://github.com/user-attachments/assets/bfb11092-671b-47cf-8509-047f1c8bdbf1" />
+<img width="375" height="440" alt="image" src="https://github.com/user-attachments/assets/f75b40ae-4719-41d9-8d6e-f73fe4005375" />
+
 
 
 
@@ -37,6 +38,7 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 <div align="center">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
