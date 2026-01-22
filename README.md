@@ -31,7 +31,7 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 #### (Vedete? Sono solo un ragazzo nel chill!)
 
 <div align="center">
- 
+ <a href="https://youtu.be/JO334h_PhuU?si=v4xrhSLu9gwCA1kS">
 <img width="375" height="440" alt="image" src="https://github.com/user-attachments/assets/f75b40ae-4719-41d9-8d6e-f73fe4005375" />
 </div>
 
@@ -39,8 +39,10 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 
 ### 🐱 The Cat with the Piano (You know, I know, We all know)
 <div align="center">
+ <a href="https://youtu.be/J---aiyznGQ?si=WjVz43oEDFGTUCwS">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
