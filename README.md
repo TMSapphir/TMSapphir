@@ -25,10 +25,16 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
  <img src="https://media1.tenor.com/m/LUM8oNBDclkAAAAC/staccah-stacca.gif">
 </div>
 
+### 🖋️ Un Poeta di altri tempi
+
+<img width="192" height="263" alt="image" src="https://github.com/user-attachments/assets/185c76d4-8405-4284-9911-26fb0d69c870" />
+
+
 ### 🐱 The Cat with the Piano (You know, I know, We all know)
 <div align="center">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
