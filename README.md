@@ -2,7 +2,7 @@
 
 ### 🎤 **Who Am I?** [I'm only a human after all 🤦‍♂️](https://www.youtube.com/watch?v=L3wKzyIN1yk)
 
-Hi! I'm Tiziano and I'm a physics student in university. I've opened this GitHub becouse, recently, I'm working to learn some coding and I want to share some of my training here! I want to learn some python, HTML, C for now but, if i have time in the future, maybe I'm going to work to learn other languages! 
+Hi! I'm Tiziano and I'm a **physics student** in **university**. I've opened this GitHub becouse, recently, I'm working to learn some coding and I want to share some of my training here! I want to learn some python, HTML, C for now but, if i have time in the future, maybe I'm going to work to learn other languages! 
 
 ## 🔬 What I'm doing now 
 
@@ -53,6 +53,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
  <a href="https://youtu.be/J---aiyznGQ?si=WjVz43oEDFGTUCwS">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
