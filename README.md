@@ -6,7 +6,7 @@ Hi! I'm Tiziano and I'm a physics student in university. I've opened this GitHub
 
 ## 🔬 What I'm doing now 
 
-Now I'm in university session and I'm studing nuclar fisics and standard models particle. Also, I'm trying to make a TicTacToe program using some basic rendering.
+Now I'm in university session and I'm studing **nuclar fisics** and standard models particle. Also, I'm trying to make a **TicTacToe program** using some basic rendering.
 
 
 ##  😫 **How have I organized this profile:** 
@@ -49,6 +49,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
  <a href="https://youtu.be/J---aiyznGQ?si=WjVz43oEDFGTUCwS">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
