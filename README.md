@@ -14,7 +14,14 @@ Now I'm in university session and I'm studing nuclar fisics and standard models 
 I noticed that I can't make "folders of repository" and this trigger me (I'm a huge fan of folders). For this, I want to organize my repository a "pre-title" to indicate the type of work done in the repository. Now, the "pre-titles" used are:
 
 
-- 🐍 **MyPythonStudy**: These repository conetain all my training codes with python. 
+- 🐍 **MyPythonStudy**: These repository conetain all my training codes with python.
+
+
+##  🎧 MyCodingVibe: What i listen when i code
+
+I don't know why, but when I code, I need to listen to certain songs to concentrate. It's strange because normally, when I study university subjects, I need silence. But when I study coding, paradoxically, I can't concentrate without listening to something. Here I'm sharing a playlist of songs I personally find helpful for concentration (don't ask me why these songs in particular. I don't know either).
+
+https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAId-5
 
 
 ##  🚀 My inspirations and goals:
@@ -42,6 +49,7 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
  <a href="https://youtu.be/J---aiyznGQ?si=WjVz43oEDFGTUCwS">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
