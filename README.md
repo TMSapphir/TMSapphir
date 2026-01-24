@@ -26,7 +26,7 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 
 
 <!-- 
-For now I'm using only the notepad standard and the IDLE. Yeah... the ASCII drawing is made totaly in notepad. I'm stupid? Maybe...maybe...
+For now I'm using only the notepad standard and the IDLE standard. Yeah... the ASCII drawing is made totaly in notepad. I'm stupid? Maybe...maybe...
 -->
 
 ##  🎧 MyCodingVibe: What i listen when i code
@@ -143,6 +143,7 @@ Don't lose your grip on the dreams of the past
 You must fight just to keep them alive
 
 -->
+
 
 
 
