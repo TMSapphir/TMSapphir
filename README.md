@@ -124,11 +124,12 @@ The image's outline, the octahedron, is a reference to the Platonic solid from t
 
 <!--
 
-Some Critical Thinking about videogames
+Some Critical Thinking about videogames and perhaps other things
 
 https://siliconarcadia.substack.com/p/critica-e-influencer-in-italia
 
 -->
+
 
 
 
