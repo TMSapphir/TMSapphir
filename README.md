@@ -25,6 +25,10 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 - 🐍 **MyPythonJourney**: These repository conetain all my training codes with python.
 
 
+<!-- 
+For now I'm using only the notepad standard and the IDLE. Yeah... the ASCII drawing is made totaly in notepad. I'm stupid? Maybe...maybe...
+-->
+
 ##  🎧 MyCodingVibe: What i listen when i code
 
 I don't know why, but when I code, I need to listen to certain songs to concentrate. It's strange because normally, when I study university subjects, I need silence. But when I study coding, paradoxically, I can't concentrate without listening to something. Here I'm sharing a playlist of songs I personally find helpful for concentration (don't ask me why these songs in particular. I don't know either).
@@ -139,6 +143,7 @@ Don't lose your grip on the dreams of the past
 You must fight just to keep them alive
 
 -->
+
 
 
 
