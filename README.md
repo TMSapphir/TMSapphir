@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 
 <div align="center">
  <a href="https://youtu.be/jfafWzvd36o?si=CTXu_kcx0gRWztg4">
-<img width="375" height="440" alt="image" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmakeagif.com%2Fgif%2Ffeynman-plays-the-bongos-pkmcB9&psig=AOvVaw3E6K5YspyYP8cbfPV0BgyQ&ust=1769339388161000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjjvP-EpJIDFQAAAAAdAAAAABAE" />
+<img width="375" height="440" alt="image" src="https://i.makeagif.com/media/8-16-2018/pkmcB9.mp4" />
 </div>
 
 ### 🐱 Keyboard Cat (You know, I know, We all know)
