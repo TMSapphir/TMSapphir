@@ -124,7 +124,7 @@ The image's outline, the octahedron, is a reference to the Platonic solid from t
 
 <!--
 
-Some Critical Thinking about videogames and perhaps other things
+Some Critical Thinking about videogames and maybe other things
 
 https://siliconarcadia.substack.com/p/critica-e-influencer-in-italia
 
@@ -139,6 +139,7 @@ Don't lose your grip on the dreams of the past
 You must fight just to keep them alive
 
 -->
+
 
 
 
