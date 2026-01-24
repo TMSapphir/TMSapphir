@@ -70,6 +70,10 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 </div>
 
 
+<!--The image's outline, the octahedron, is a reference to the Platonic solid from the anime Alexander: Chronicles of Alexander the Great. After seeing the Macedonians with their Aristotelian mecha soldiers, the Persians with their fire-breathing elephants, and the Pythagorean priest-magicians... I fell in love. -->
+
+
+
 
 
 
