@@ -25,6 +25,8 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 
 I don't know why, but when I code, I need to listen to certain songs to concentrate. It's strange because normally, when I study university subjects, I need silence. But when I study coding, paradoxically, I can't concentrate without listening to something. Here I'm sharing a playlist of songs I personally find helpful for concentration (don't ask me why these songs in particular. I don't know either).
 
+<!-- I don't know why, but my brain has some strange bias for the Genesis 🤔 -->
+
 https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAId-5
 
 
@@ -62,6 +64,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
  <a href="https://youtu.be/J---aiyznGQ?si=WjVz43oEDFGTUCwS">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
