@@ -46,8 +46,10 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 <img width="375" height="440" alt="image" src="https://github.com/user-attachments/assets/f75b40ae-4719-41d9-8d6e-f73fe4005375" />
 </div>
 
-### 🪘 The Bongo Man
+### 🪘 The Bongo Man 
 #### (I'd like some Orange Juice)
+
+<!-- Because even in death you must never lose your smile 🥲 -->
 
 <div align="center">
  <a href="https://youtu.be/jfafWzvd36o?si=CTXu_kcx0gRWztg4">
@@ -60,6 +62,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
  <a href="https://youtu.be/J---aiyznGQ?si=WjVz43oEDFGTUCwS">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
