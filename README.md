@@ -51,7 +51,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 
 <div align="center">
  <a href="https://youtu.be/jfafWzvd36o?si=CTXu_kcx0gRWztg4">
- <img width="375" height="440" alt="image" src="https://i.makeagif.com/media/8-16-2018/pkmcB9.gif" />
+ <img width="375" height="440" alt="image" src="https://i.imgur.com/At1jB3l.gif" />
 </div>
 
 ### 🐱 Keyboard Cat (You know, I know, We all know)
@@ -59,6 +59,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
  <a href="https://youtu.be/J---aiyznGQ?si=WjVz43oEDFGTUCwS">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
