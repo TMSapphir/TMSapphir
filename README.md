@@ -128,6 +128,8 @@ Some Critical Thinking about videogames and perhaps other things
 
 https://siliconarcadia.substack.com/p/critica-e-influencer-in-italia
 
+
+
 So many times it happens too fast
 
 You change your passion for glory
@@ -137,6 +139,7 @@ Don't lose your grip on the dreams of the past
 You must fight just to keep them alive
 
 -->
+
 
 
 
