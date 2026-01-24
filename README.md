@@ -66,33 +66,3 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
