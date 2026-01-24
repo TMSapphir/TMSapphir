@@ -10,8 +10,8 @@ Now I'm in university session and I'm studing **nuclear fisics** and standard mo
 
 ##  🤓 What I Know (Perhaps)
 
-- **Python**(_Training_)
-- **Physics**(_Training_)
+- **Python**(_ForeverInTraining_)
+- **Physics**(_ForeverInTraining_)
 
 <!-- Because you never stop to learn something 😜 -->
 
@@ -66,6 +66,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
  <a href="https://youtu.be/J---aiyznGQ?si=WjVz43oEDFGTUCwS">
  <img src="https://flipanim.com/gif/3/8/38A6SJqV.gif">
 </div>
+
 
 
 
