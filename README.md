@@ -69,6 +69,14 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 
 -->
 
+<!--
+
+One of the best discussion about the difference between matematics/logic and physics or, in general, reality
+
+https://youtu.be/B-eh2SD54fM?si=YLGecBkz4b2ZImS5
+
+-->
+
 <!--As a physicist, I wonder: why doesn't anyone ask the photon what its point of view is? If I were the photon, I would be offended. 😡-->
 
 
@@ -82,6 +90,7 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 
 
 <!--The image's outline, the octahedron, is a reference to the Platonic solid from the anime Alexander: Chronicles of Alexander the Great. After seeing the Macedonians with their Aristotelian mecha soldiers, the Persians with their fire-breathing elephants, and the Pythagorean priest-magicians... I fell in love with it. -->
+
 
 
 
