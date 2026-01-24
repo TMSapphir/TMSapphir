@@ -76,7 +76,7 @@ One of the best discussion about the difference between matematics/logic and phy
 
 https://youtu.be/B-eh2SD54fM?si=YLGecBkz4b2ZImS5
 
-I'm more in the strumentalist, operational and relational side of the spectrum. I'm not a "realist" if you know what I mean.
+I'm more in the strumentalist, operational and relational side of the spectrum. I'm not a "realist" if you know what I mean. The physics, for me, don't describe the reality but create predictive models in determinate precisions scale. Logic a tool and a language, not a rappresentation of reality. But here I'm getting phylosofical 🤓🤣
 
 -->
 
@@ -94,6 +94,7 @@ I'm more in the strumentalist, operational and relational side of the spectrum. 
 
 
 <!--The image's outline, the octahedron, is a reference to the Platonic solid from the anime Alexander: Chronicles of Alexander the Great. After seeing the Macedonians with their Aristotelian mecha soldiers, the Persians with their fire-breathing elephants, and the Pythagorean priest-magicians... I fell in love with it. -->
+
 
 
 
