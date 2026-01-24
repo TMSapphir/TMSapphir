@@ -63,11 +63,19 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 <!-- I know there may be some "controversy" among physicists about this image, but I want to be clear: there are no GIFs of Dirac playing the bongos, ergo Feyman wins on this profile. 😜-->
 
 
+
+
+
+
 <!-- Here you can see a typical meeting between an introvert and an extrovert. Maybe they got along better than the "factions" they represent. Peace and love guys! 🤙
 
 <img width="600" height="821" alt="image" src="https://github.com/user-attachments/assets/6d66ccbd-efde-478c-bb68-d57dcec640bb" />
 
 -->
+
+
+
+
 
 
 <!--
@@ -81,7 +89,14 @@ I'm more in the strumentalist, operational and relational side of the spectrum. 
 -->
 
 
+
+
+
+
 <!--As a physicist, I wonder: why doesn't anyone ask the photon what its point of view is? If I were the photon, I would be offended. 😡-->
+
+
+
 
 
 
@@ -94,6 +109,7 @@ I'm more in the strumentalist, operational and relational side of the spectrum. 
 
 
 <!--The image's outline, the octahedron, is a reference to the Platonic solid from the anime Alexander: Chronicles of Alexander the Great. After seeing the Macedonians with their Aristotelian mecha soldiers, the Persians with their fire-breathing elephants, and the Pythagorean priest-magicians... I fell in love with it. -->
+
 
 
 
