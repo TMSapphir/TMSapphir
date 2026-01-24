@@ -13,7 +13,9 @@ Now I'm in university session and I'm studing **nuclear fisics** and standard mo
 - **Python**(_ForeverInTraining_)
 - **Physics**(_ForeverInTraining_)
 
-<!-- Because you never stop to learn something 😜 -->
+<!--
+Because you never stop to learn something 😜 
+-->
 
 ##  😫 **How have I organized this profile:** 
 
@@ -27,7 +29,9 @@ I noticed that I can't make "folders of repository" and this trigger me (I'm a h
 
 I don't know why, but when I code, I need to listen to certain songs to concentrate. It's strange because normally, when I study university subjects, I need silence. But when I study coding, paradoxically, I can't concentrate without listening to something. Here I'm sharing a playlist of songs I personally find helpful for concentration (don't ask me why these songs in particular. I don't know either).
 
-<!-- I don't know why, but my brain has some strange bias for the Genesis 🤔 -->
+<!-- 
+I don't know why, but my brain has some strange bias for the Genesis 🤔 
+-->
 
 https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAId-5
 
@@ -53,14 +57,18 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 ### 🪘 The Bongo Man 
 #### (I'd like some Orange Juice)
 
-<!-- Because even in death you must never lose your smile 🥲 -->
+<!--
+Because even in death you must never lose your smile 🥲 
+-->
 
 <div align="center">
  <a href="https://youtu.be/jfafWzvd36o?si=CTXu_kcx0gRWztg4">
  <img width="375" height="440" alt="image" src="https://i.imgur.com/At1jB3l.gif" />
 </div>
 
-<!-- I know there may be some "controversy" among physicists about this image, but I want to be clear: there are no GIFs of Dirac playing the bongos, ergo Feyman wins on this profile. 😜-->
+<!-- 
+I know there may be some "controversy" among physicists about this image, but I want to be clear: there are no GIFs of Dirac playing the bongos, ergo Feyman wins on this profile. 😜
+-->
 
 
 
@@ -72,8 +80,6 @@ https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAI
 <img width="600" height="821" alt="image" src="https://github.com/user-attachments/assets/6d66ccbd-efde-478c-bb68-d57dcec640bb" />
 
 -->
-
-
 
 
 
@@ -93,7 +99,9 @@ I'm more in the strumentalist, operational and relational side of the spectrum. 
 
 
 
-<!--As a physicist, I wonder: why doesn't anyone ask the photon what its point of view is? If I were the photon, I would be offended. 😡-->
+<!--
+As a physicist, I wonder: why doesn't anyone ask the photon what its point of view is? If I were the photon, I would be offended. 😡
+-->
 
 
 
@@ -108,8 +116,19 @@ I'm more in the strumentalist, operational and relational side of the spectrum. 
 </div>
 
 
-<!--The image's outline, the octahedron, is a reference to the Platonic solid from the anime Alexander: Chronicles of Alexander the Great. After seeing the Macedonians with their Aristotelian mecha soldiers, the Persians with their fire-breathing elephants, and the Pythagorean priest-magicians... I fell in love with it. -->
+<!--
+The image's outline, the octahedron, is a reference to the Platonic solid from the anime Alexander: Chronicles of Alexander the Great. After seeing the Macedonians with their Aristotelian mecha soldiers, the Persians with their fire-breathing elephants, and the Pythagorean priest-magicians... I fell in love with it. 
+-->
 
+
+
+<!--
+
+Some Critical Thinking about videogames
+
+https://siliconarcadia.substack.com/p/critica-e-influencer-in-italia
+
+-->
 
 
 
