@@ -6,7 +6,7 @@ Hi! I'm Tiziano and I'm a **physics student** in **university**. I've opened thi
 
 ## 🔬 What I'm doing now 
 
-Now I'm in university session and I'm studing **nuclear fisics** and standard models particles. Also, I'm trying to **redo the TicTacToe code with classes**.
+Now I'm in university session and I'm studing **nuclear fisics** and standard models particles. Also, I'm trying to **make Connect 4 with OOP**.
 
 ##  🤓 What I Know (Perhaps)
 
@@ -143,6 +143,7 @@ Don't lose your grip on the dreams of the past
 You must fight just to keep them alive
 
 -->
+
 
 
 
