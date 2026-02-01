@@ -37,7 +37,7 @@ I don't know why, but when I code, I need to listen to certain songs to concentr
 I don't know why, but my brain has some strange bias for the Genesis 🤔 
 -->
 
-https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAId-5
+[https://www.youtube.com/watch?v=x_XS5q0EUQs&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAId-5](https://www.youtube.com/watch?v=NX39p_UMJ_0&list=PLGMAKwqCuhYIYhsfPMqbVRrHthNQAId-5&index=1)
 
 
 ##  🚀 My inspirations and goals:
@@ -143,6 +143,7 @@ Don't lose your grip on the dreams of the past
 You must fight just to keep them alive
 
 -->
+
 
 
 
