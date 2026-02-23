@@ -60,7 +60,7 @@ I don't know why, but my brain has some strange bias for the Genesis 🤔
 
 
 ### 🚨 The Bad Boys
-#### (Whatcha gonna do when they come for you?)
+#### [(Whatcha gonna do when they come for you?)](https://youtu.be/on9TXY8kYyk?si=MF249jFx_8QM20tX)
 <div align="center">
  <a href="https://youtu.be/g_PXY1fk9Cg?si=Dviyrz1KHTXBEhsD">
  <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/7dbcaf27-a16b-48a4-90aa-7f0a26f0c838" />
@@ -154,6 +154,7 @@ Don't lose your grip on the dreams of the past
 You must fight just to keep them alive
 
 -->
+
 
 
 
