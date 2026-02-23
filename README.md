@@ -124,6 +124,14 @@ As a physicist, I wonder: why doesn't anyone ask the photon what its point of vi
 The image's outline, the octahedron, is a reference to the Platonic solid from the anime Alexander: Chronicles of Alexander the Great. After seeing the Macedonians with their Aristotelian mecha soldiers, the Persians with their fire-breathing elephants, and the Pythagorean priest-magicians... I fell in love with it. 
 -->
 
+### 🚨 The Bad Boy
+#### (Whatcha gonna do when they come for you?)
+<div align="center">
+ <a href="https://youtu.be/g_PXY1fk9Cg?si=Dviyrz1KHTXBEhsD">
+ <img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/7dbcaf27-a16b-48a4-90aa-7f0a26f0c838" />
+</div>
+
+
 
 
 <!--
@@ -143,6 +151,7 @@ Don't lose your grip on the dreams of the past
 You must fight just to keep them alive
 
 -->
+
 
 
 
